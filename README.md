@@ -1,6 +1,6 @@
 # CSC 3105 Project
 
-This project involves data preprocessing and dimensionality reduction using Principal Component Analysis (PCA). The data is first standardized to have a mean of 0 and a standard deviation of 1. Then, PCA is applied to reduce the dimensionality of the data while retaining 95% of the original variance.
+This project involves data preprocessing and dimensionality reduction using Principal Component Analysis (PCA).
 
 ## File Structure
 
